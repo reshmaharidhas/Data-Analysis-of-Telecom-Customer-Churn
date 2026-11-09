@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FData-Analysis-of-Telecom-Customer-Churn"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Freshmaharidhas%2FData-Analysis-of-Telecom-Customer-Churn&label=Visitors&labelColor=%23000000&countColor=%2300ff00&style=plastic&labelStyle=none" /></a>
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/reshmaharidhas/Data-Analysis-of-Telecom-Customer-Churn">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/reshmaharidhas/Data-Analysis-of-Telecom-Customer-Churn">
   <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/reshmaharidhas/Data-Analysis-of-Telecom-Customer-Churn">
   <img alt="GitHub License" src="https://img.shields.io/github/license/reshmaharidhas/Data-Analysis-of-Telecom-Customer-Churn?labelColor=%23000000">
 
